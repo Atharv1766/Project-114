@@ -1,0 +1,19 @@
+h3
+{
+    font-size: 25px !important;
+}
+.btn-success:hover
+{
+    background-color: orangered;
+}
+canvas
+{
+    animation-name: Idontknow;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes Idontknow
+{
+    from{box-shadow: 10px 10px 100px blue}
+    to{box-shadow: 10px 10px 100px red}
+}
